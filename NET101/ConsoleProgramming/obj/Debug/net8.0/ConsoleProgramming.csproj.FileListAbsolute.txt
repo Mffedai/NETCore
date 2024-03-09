@@ -1,0 +1,14 @@
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\bin\Debug\net8.0\ConsoleProgramming.exe
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\bin\Debug\net8.0\ConsoleProgramming.deps.json
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\bin\Debug\net8.0\ConsoleProgramming.runtimeconfig.json
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\bin\Debug\net8.0\ConsoleProgramming.dll
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\bin\Debug\net8.0\ConsoleProgramming.pdb
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.AssemblyInfoInputs.cache
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.AssemblyInfo.cs
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.dll
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\refint\ConsoleProgramming.dll
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.pdb
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ConsoleProgramming.genruntimeconfig.cache
+C:\Users\mfati\OneDrive\Masaüstü\.Net\NET101\ConsoleProgramming\obj\Debug\net8.0\ref\ConsoleProgramming.dll
